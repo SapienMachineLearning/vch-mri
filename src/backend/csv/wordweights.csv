@@ -1,7 +1,12 @@
 abnormalities,B
 abscess,A
+acute,A
+Aphasia,A
+Osteochondral Defect,A
+Osteomyelitis,A
+CSF,A
+Gallbladder,B
 acl,B
-acute,B
 adenoma,B
 adrenal,B
 aneurysm,B
@@ -32,7 +37,6 @@ carotid,B
 cerebral,A
 cervix,B
 chiari,B
-chronic,C
 claudication,A
 clot,B
 cognitive,B
@@ -42,7 +46,6 @@ congential,B
 critical,A
 ct,B
 cyst,B
-dementia,B
 demyelination,A
 dissection,A
 emblization,B
@@ -53,7 +56,6 @@ fibrocartilage,B
 fibroid,B
 fistula,B
 fnh,B
-followup,C
 foot,B
 fracture,B
 glomus,B
@@ -65,8 +67,6 @@ hepatic,B
 hernia,B
 high,A
 hip,B
-history,D
-hx,B
 hydrocephalus,B
 ica,B
 impingement,B
@@ -83,10 +83,8 @@ joint,B
 knee,B
 known,B
 labral,B
-lesion,A
 lipoma,B
 liver,B
-locked,B
 lymphoma,B
 malformation,B
 mass,B
@@ -107,14 +105,12 @@ neurodegenerative,B
 neurofibroma,B
 neuroma,B
 neuropathy,B
-new,C
 occult,B
 operative,B
 optic,B
 orbital,B
 orthopedic,B
 osteochondromas,B
-osteomyelitis,A
 pain,B
 pancoast,B
 pancreas,B
@@ -148,9 +144,7 @@ si,B
 slap,A
 spinal,B
 spine,B
-staging,B
 stealth,B
-stenosis,A
 stroke,A
 supraspinatus,B
 surgical,A
@@ -169,7 +163,22 @@ tumour,B
 uae,B
 ultrasound,B
 uterine,B
-vascular,A
 venous,A
 workup,B
 wrist,B
+Old,D
+staging,C
+locked,C
+history,A
+followup,A
+HIV,A
+hx,A
+lesion,B
+vascular,B
+stenosis,B
+OCD,A
+Cardiomyopathy,A
+new,A
+dementia,A
+Leak,A
+chronic,D
