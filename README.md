@@ -10,7 +10,7 @@ A solution prototype utilizing AWS-managed Natural Language Processing (NLP) ser
 
 ![alt text](images/AWS_Diagram.png)
 
-## Deployment
+## Deployment 
 
 To deploy this solution into your AWS Account please follow our [Deployment Guide](docs/deployment_guide.md)
 
